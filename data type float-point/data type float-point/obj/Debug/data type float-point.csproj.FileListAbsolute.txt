@@ -1,0 +1,6 @@
+C:\Users\u205102\Documents\Visual Studio 2015\Projects\my conding\data type float-point\data type float-point\bin\Debug\data type float-point.exe.config
+C:\Users\u205102\Documents\Visual Studio 2015\Projects\my conding\data type float-point\data type float-point\bin\Debug\data type float-point.exe
+C:\Users\u205102\Documents\Visual Studio 2015\Projects\my conding\data type float-point\data type float-point\bin\Debug\data type float-point.pdb
+C:\Users\u205102\Documents\Visual Studio 2015\Projects\my conding\data type float-point\data type float-point\obj\Debug\data type float-point.csprojResolveAssemblyReference.cache
+C:\Users\u205102\Documents\Visual Studio 2015\Projects\my conding\data type float-point\data type float-point\obj\Debug\data type float-point.exe
+C:\Users\u205102\Documents\Visual Studio 2015\Projects\my conding\data type float-point\data type float-point\obj\Debug\data type float-point.pdb

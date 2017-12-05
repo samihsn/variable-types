@@ -1,0 +1,6 @@
+c:\users\u205102\documents\visual studio 2015\Projects\my conding\my conding\bin\Debug\my conding.exe.config
+C:\Users\u205102\documents\visual studio 2015\Projects\my conding\my conding\bin\Debug\my conding.exe
+C:\Users\u205102\documents\visual studio 2015\Projects\my conding\my conding\bin\Debug\my conding.pdb
+C:\Users\u205102\documents\visual studio 2015\Projects\my conding\my conding\obj\Debug\my conding.csprojResolveAssemblyReference.cache
+C:\Users\u205102\documents\visual studio 2015\Projects\my conding\my conding\obj\Debug\my conding.exe
+C:\Users\u205102\documents\visual studio 2015\Projects\my conding\my conding\obj\Debug\my conding.pdb
